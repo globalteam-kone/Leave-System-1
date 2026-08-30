@@ -1,0 +1,6 @@
+{
+  "name": "Leave Management System",
+  "description": "Digitized leave management system with dual Digital & Paperback approval workflows, real-time approval dashboards, automated balance tracking, Google Drive document storage, Google Sheets logs, and Google Calendar syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
